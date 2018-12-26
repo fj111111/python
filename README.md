@@ -1,2 +1,2 @@
-# python
-python的学习资料
+#python
+01基础
