@@ -1,0 +1,7 @@
+安装
+推荐：virtualbox+ubuntu
+套件推荐：Anaconda3+pycharm
+注意：大于4G推荐虚拟机下启动系统，小于4G推荐windows下安装套件
+查看anaconda版本号：anaconds -V
+使用ipython notebook:在终端输入ipython notebook
+
