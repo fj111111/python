@@ -1,1 +1,5 @@
-yyyff000
+'''
+
+'''
+class Student():
+     pass
