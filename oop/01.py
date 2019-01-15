@@ -34,3 +34,6 @@ lili = PythonStudent()
 print(lili.name)
 print(lili.age)
 lili.doHomework()
+
+
+print(PythonStudent.__dict__)
