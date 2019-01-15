@@ -29,7 +29,7 @@ class PythonStudent():
         return None
 
 
-# 实例化
+# 实例化类
 lili = PythonStudent()
 print(lili.name)
 print(lili.age)
